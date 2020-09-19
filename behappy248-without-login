@@ -69,8 +69,7 @@ cpb = []
 oks = []
 id = []
 def menu():
- action():
-	bch = raw_input('\n  ▄︻̷̿┻̿═━一   ')
+bch = raw_input('\n  ▄︻̷̿┻̿═━一   ')
 	if bch =='':
 		print '[!] Fill in correctly'
 		action()
